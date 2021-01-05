@@ -22,7 +22,7 @@ App Engine deployments.
 **Note:** This action will install [gcloud](https://cloud.google.com/sdk) in the
 background if not using in with the [`setup-gcloud` action][setup-gcloud].
 
-## Prerequisites
+## Prerequisites...........
 
 This action requires Google Cloud credentials that are authorized to deploy an
 App Engine Application. See the Authorization section below for more information.
