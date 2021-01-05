@@ -41,7 +41,7 @@ steps:
   run: curl "${{ steps.deploy.outputs.url }}"
 ```
 
-## ####Inputs.......
+## ####Inputs...........
 
 - `project_id`: (Optional) ID of the Google Cloud project. If provided, this
   will override the project configured by gcloud.
